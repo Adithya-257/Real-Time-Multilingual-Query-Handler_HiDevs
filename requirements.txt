@@ -1,2 +1,5 @@
 langdetect
 deep-translator
+fastapi
+pydantic
+langcodes
